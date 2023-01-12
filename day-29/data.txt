@@ -1,0 +1,4 @@
+Google | lucas@gmail.com | 123
+Amazon | lucas@gmail.com | 123
+sad | lucas@gmail.com | dsad
+ghgh | lucas@gmail.com | dfgfd
